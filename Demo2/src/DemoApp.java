@@ -11,6 +11,7 @@ public class DemoApp {
 		String name = "sachin";
 		int count = name.toUpperCase().length();
 		System.out.println(count);
+		System.out.println("WAAAA");
 
 	}
 
